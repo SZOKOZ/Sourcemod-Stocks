@@ -9,7 +9,7 @@ These are meant to tackle hard to come by functionality within Source games that
 >    IsEntityInClientFOV,
 >    GetClientsVisible
 >}
->###Utility
+>Utility
 >{
 >    GetCmdArgStringUrl
 >}
