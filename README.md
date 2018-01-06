@@ -10,7 +10,7 @@ Coming Soon...
 >
 >    IsEntityInClientFOV,
 >
->    GetClientsVisible
+>    GetClientsVisible,
 >
 >}
 >
@@ -18,6 +18,8 @@ Coming Soon...
 >
 >{
 >
->    GetCmdArgStringUrl
+>    GetCmdArgStringUrl,
+>
+>    FrustumTrace
 >
 >}
