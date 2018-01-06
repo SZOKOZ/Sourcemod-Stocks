@@ -5,11 +5,19 @@ These are meant to tackle hard to come by functionality within Source games that
 >
 Coming Soon...
 >Entity Functions 
+>
 >{
+>
 >    IsEntityInClientFOV,
+>
 >    GetClientsVisible
+>
 >}
+>
 >Utility
+>
 >{
+>
 >    GetCmdArgStringUrl
+>
 >}
