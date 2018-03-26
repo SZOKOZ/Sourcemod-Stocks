@@ -12,7 +12,8 @@
  * @param string           Text to check for substring.
  * @param size             Size of string buffer.
  *
- * return bool             True if string begins with substring. False otherwise.
+ * return bool             True if string begins with substring (or if both string arguments are empty... Change that part if you want)
+ *                         otherwise returns false.
  */
 bool beginsWith(const char[] substring, const char[] string, int size)
 {
