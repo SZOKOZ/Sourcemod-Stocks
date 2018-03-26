@@ -5,6 +5,8 @@
  *
  *************************/
 
+#define SBUF(%1) %1, sizeof(%1)
+
 /*
  * So you want to know if a string begins with a certain phrase? No worries I got you.
  *
